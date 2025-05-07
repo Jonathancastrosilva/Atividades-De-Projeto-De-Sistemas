@@ -1,0 +1,2 @@
+[console_scripts]
+calc_lib = app.main:main
